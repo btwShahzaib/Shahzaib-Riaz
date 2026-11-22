@@ -41,6 +41,23 @@ I'm currently learning Data Science and Machine Learning, building practical pro
 - Build more Data Science projects.
 - Develop a strong Data Science portfolio.
 
----
+##  Featured Projects
 
-⭐ Thanks for visiting my profile!
+###  Student Performance Analysis & Prediction System
+
+A Machine Learning project that analyzes student performance factors and predicts exam scores.
+
+**Key Features:**
+- Exploratory Data Analysis (EDA)
+- Data Cleaning and Visualization
+- Decision Tree and Random Forest Regression
+- Hyperparameter Tuning using GridSearchCV
+- Interactive GUI for exam score prediction
+
+**Technologies:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Google Colab.
+
+**Repository:** [View Complete Project](../-Student-Performance-Prediction)
+
+
+
+ Thanks for visiting my profile!
